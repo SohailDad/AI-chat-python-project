@@ -21,7 +21,7 @@ st.markdown("""
         z-index: 9999;
     }
     .chat-box {
-        height: 80vh;
+        height: 50vh;
         overflow-y: auto;
         padding: 10px;
         margin-bottom: 70px;

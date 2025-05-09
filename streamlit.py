@@ -1,6 +1,5 @@
 import streamlit as st
 import model 
-from google import genai
 
 
 

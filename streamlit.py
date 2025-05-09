@@ -1,5 +1,5 @@
 import streamlit as st
-
+import model 
 
 def gemini_model(user_input):
     pass

@@ -1,8 +1,8 @@
 import streamlit as st
 import model 
+from google import genai
 
-def gemini_model(user_input):
-    pass
+
 
 
 # Initialize session state for storing user inputs
@@ -19,7 +19,7 @@ with st.form("chat_form", clear_on_submit=True):
 
     # Add input to session state if submitted
     if submitted and user_input:
-        gemini_model(user_input)
+        model.gemini_model(user_input)
         st.session_state.user_inputs.append(user_input)
 
 # Display all inputs dynamically

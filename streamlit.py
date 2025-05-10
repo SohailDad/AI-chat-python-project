@@ -26,11 +26,13 @@ with st.form("chat_form", clear_on_submit=True):
 # Display all inputs dynamically
 if st.session_state.user_inputs:
     st.markdown("### Messages:")
-    col1, col2 = st.columns([10, 5])
+    col1, col2 = st.columns([5, 5])
     with col1:
-        st.markdown("\n".join([f"- **User:** {message}" for message in st.session_state.user_inputs]))
+        st.markdown("### User:")
+        st.markdown("\n".join([f"- **User:** {message}" for message in st.session_state.user_inputs[::-1]]))
     with col2:
-        st.markdown("\n".join([f"- **Model:** {message}" for message in st.session_state.model_output]))
+        st.markdown("### Model Reply:")
+        st.markdown("\n".join([f"- **Model:** {message}" for message in st.session_state.model_output[::-1]]))
        
     
 

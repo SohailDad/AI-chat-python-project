@@ -4,5 +4,5 @@
 ## Installation
 <code>pip install streamlit</code>
 
-<strong>install the Gemini library</strong>
-
+<strong>install the Gemini library</strong></br>
+<code>pip install google-generativeai</code>

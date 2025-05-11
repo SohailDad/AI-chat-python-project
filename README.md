@@ -4,4 +4,5 @@
 ## Installation
 <code>pip install streamlit</code>
 
+<strong>install the Gemini library</strong>
 

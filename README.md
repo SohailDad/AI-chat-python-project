@@ -13,6 +13,9 @@
 
 
 
-[Click here to watch the demo video](Untitled_video.mp4)
+<video width="640" height="360" controls title="Project video">
+  <source src="https://github.com/user-attachments/assets/930b0fd7-fca6-45ca-9df8-ee0e130d5ddf" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 

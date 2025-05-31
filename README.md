@@ -6,3 +6,8 @@
 
 <strong>install the Gemini library</strong></br>
 <code>pip install google-generativeai</code>
+
+
+<strong>run the streamlit project</strong></br>
+<code>streamlit run <file_name></code>
+

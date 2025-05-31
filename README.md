@@ -11,3 +11,9 @@
 <strong>run the streamlit project</strong></br>
 <code>streamlit run <file_name></code>
 
+
+
+<video controls src="Untitled video.mp4" title="project video"></video>
+
+
+

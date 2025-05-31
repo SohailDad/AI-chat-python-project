@@ -13,7 +13,9 @@
 
 
 
-<video controls src="Untitled_video.mp4" title="project video"></video>
-
+<video width="640" height="360" controls title="Project video">
+  <source src="Untitled_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 

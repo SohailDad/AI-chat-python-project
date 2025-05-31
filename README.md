@@ -12,10 +12,7 @@
 <code>streamlit run <file_name></code>
 
 
-
-<video width="640" height="360" controls title="Project video">
-  <source src="https://github.com/user-attachments/assets/930b0fd7-fca6-45ca-9df8-ee0e130d5ddf" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Demo
+https://github.com/user-attachments/assets/4d2804e5-15bd-4191-8417-3db0a22a0c4f
 
 
